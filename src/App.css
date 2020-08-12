@@ -2,4 +2,34 @@
   text-align: center;
 }
 
+.title{
+  margin-top:15px;
+  margin-bottom:1px;
+  text-align: center;
+  font-family: 'Candera Lite';
+  letter-spacing: 5px;
+  color:rgb(127, 117, 103);
+}
+
+.title2{
+  text-align: center;
+  font-family: 'Candera Lite';
+  letter-spacing: 5px;
+  color:rgb(127, 117, 103);
+}
+
+.Logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+  margin-top: -5px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 3px;
+  width: 80%;
+  font-family: 'Candera Lite';
+}
 
