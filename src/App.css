@@ -8,14 +8,15 @@
   text-align: center;
   font-family: 'Candera Lite';
   letter-spacing: 5px;
-  color:rgb(127, 117, 103);
+  /* color:rgb(127, 117, 103); */
+  color:rgb(6, 6, 6, 0.7);
 }
 
 .title2{
   text-align: center;
   font-family: 'Candera Lite';
   letter-spacing: 5px;
-  color:rgb(127, 117, 103);
+  color:rgb(6, 6, 6, .7);
 }
 
 .Logo{
@@ -25,11 +26,13 @@
 }
 
 .navbar {
-  margin-top: -5px;
+  margin-top: -10px;
   margin-left: auto;
   margin-right: auto;
   letter-spacing: 3px;
   width: 80%;
   font-family: 'Candera Lite';
 }
-
+.link{
+color:rgb(6, 6, 6, .7) !important;
+}
