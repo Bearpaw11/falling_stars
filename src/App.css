@@ -1,3 +1,8 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 .App {
   text-align: center;
 }
@@ -7,16 +12,16 @@
   margin-bottom:1px;
   text-align: center;
   font-family: 'Candera Lite';
-  letter-spacing: 5px;
-  /* color:rgb(127, 117, 103); */
-  color:rgb(6, 6, 6, 0.7);
+  letter-spacing: 7px;
+  color:rgb(0,0,0,.7);
 }
 
 .title2{
   text-align: center;
   font-family: 'Candera Lite';
-  letter-spacing: 5px;
-  color:rgb(6, 6, 6, .7);
+  letter-spacing: 6px;
+  color:rgb(0,0,0,.7);
+  margin-bottom: 0px;
 }
 
 .Logo{
@@ -26,13 +31,66 @@
 }
 
 .navbar {
-  margin-top: -10px;
-  margin-left: auto;
-  margin-right: auto;
-  letter-spacing: 3px;
-  width: 80%;
+  margin-top: -20px;
+  letter-spacing: 5px;
+  width: 90%;
   font-family: 'Candera Lite';
 }
 .link{
-color:rgb(6, 6, 6, .7) !important;
+  margin-top:30px;
+  color:rgb(0,0,0,.7) !important;
+  
+}
+
+.home{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -5px;
+  width: 90%;
+  
+}
+.design{
+  border-bottom: solid .05em;
+  border-color:rgb(0,0,0,.5);
+}
+
+.insta{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+  width: 80px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.about{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  letter-spacing: 2px;
+  width: 65%;
+  font-family: 'Candera Lite';
+}
+
+.projects {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  letter-spacing: 2px;
+  width: 100%;
+  font-family: 'Candera Lite';
+}
+
+.contact{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  letter-spacing: 2px;
+  width: 100%;
+  font-family: 'Candera Lite';
 }

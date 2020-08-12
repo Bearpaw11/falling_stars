@@ -7,17 +7,17 @@ import logo from '../images/Logo.jpg'
 function Navmenu() {
     return (
         <div>
-        <h1 className="title">Falling Stars</h1>
-        <h4 className="title2">Design</h4>
+        <h2 className="title">FALLING STARS</h2>
+        <h6 className="title2">DESIGN</h6>
         <img className="Logo" src={logo}></img>
         <Navbar className="navborder" expand="lg">
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto navbar">
-            <Nav.Link className="link"href="/">Home </Nav.Link>
-            <Nav.Link className="link"href="/about">About</Nav.Link>
-            <Nav.Link className="link"href="/projects">Projects</Nav.Link>
-            <Nav.Link className="link"href="/contact">Contact</Nav.Link>
+            <Nav.Link className="link"href="/">HOME </Nav.Link>
+            <Nav.Link className="link"href="/about">ABOUT</Nav.Link>
+            <Nav.Link className="link"href="/projects">PROJECTS</Nav.Link>
+            <Nav.Link className="link"href="/contact">CONTACT</Nav.Link>
         </Nav>
         </Navbar.Collapse>
         </Navbar>
