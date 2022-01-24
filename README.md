@@ -6,4 +6,4 @@ What you see is a starting point and I will be adding on as customer provides mo
 
 This was built using React, HTML, CSS and JavaScript
 
-Here is the deployed site. fallingstarsdesign.com
+Here is the deployed site. https://fallingstarsdesign.com/
